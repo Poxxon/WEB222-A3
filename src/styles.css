@@ -1,0 +1,103 @@
+/* whole body element style */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  height: fit-content;
+  font-family: sans-serif;
+}
+
+/* about.html body style */
+.body_about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  margin: 0;
+  padding: 20px;
+  height: fit-content;
+  font-family: sans-serif;
+}
+
+div {
+  margin: auto;
+  height: auto;
+  width: auto;
+}
+
+/* header image style */
+.main-image {
+ border-radius: 50%;
+ width: 500px;
+ height: auto;
+ padding: 15px;
+}
+
+/* figure 1.2 style */
+.sec-image{ 
+  width: 750px;
+  height: 500px;
+  padding: 10px;
+}
+
+/* style for youtube video */
+iframe {
+  padding: 10px;
+  width: 750px;
+  height: 422px
+}
+
+/* figure 1.2 figure caption style */
+figcaption {
+  font-size: 0.8em;
+  color: #555;
+}
+
+/* padding to make space between text and mp3 file */
+audio {
+  padding: 10px;
+}
+
+/* button to go back to the homepage style */
+button {
+  background: white;
+  border: solid 2px black;
+  padding: 10px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+/* hovering over animation style for the buttons */
+button:hover {
+  background-color: lightgray;
+}
+
+/* horizontal line style */
+hr {
+    width: 100%; 
+    border: 1.5px solid #b7b7b7; 
+    text-align: center;
+}
+
+/* subtitle of the header name */
+.subtitle {
+  color: #b7b7b7;
+  font-size: 0.75em;
+  font-weight: lighter;
+}
+
+/* paragraph body style */
+.p_body {
+  text-align: justify center;
+  width: 730px;
+  font-size: 1.3em;
+}
+
+ul {
+  list-style-type: lower-roman;
+}
