@@ -101,3 +101,10 @@ hr {
 ul {
   list-style-type: lower-roman;
 }
+
+footer {
+  background-color: #b7b7b7;
+  width: 100%;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
