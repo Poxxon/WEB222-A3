@@ -32,14 +32,14 @@ div {
 
 /* header image style */
 .main-image {
- border-radius: 50%;
- width: 500px;
- height: auto;
- padding: 15px;
+  border-radius: 50%;
+  width: 500px;
+  height: auto;
+  padding: 15px;
 }
 
 /* figure 1.2 style */
-.sec-image{ 
+.sec-image {
   width: 750px;
   height: 500px;
   padding: 10px;
@@ -49,7 +49,7 @@ div {
 iframe {
   padding: 10px;
   width: 750px;
-  height: 422px
+  height: 422px;
 }
 
 /* figure 1.2 figure caption style */
@@ -79,9 +79,9 @@ button:hover {
 
 /* horizontal line style */
 hr {
-    width: 100%; 
-    border: 1.5px solid #b7b7b7; 
-    text-align: center;
+  width: 100%;
+  border: 1.5px solid #b7b7b7;
+  text-align: center;
 }
 
 /* subtitle of the header name */
